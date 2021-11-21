@@ -1,1 +1,1 @@
-you can use npm install
+use npm install
